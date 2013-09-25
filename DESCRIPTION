@@ -1,0 +1,12 @@
+Package: PWMEnrich.Hsapiens.background
+Maintainer: Robert Stojnic <robert.stojnic@gmail.com>
+License: GPL-3
+Title: H. sapiens background for PWMEnrich
+Type: Package
+LazyLoad: yes
+Author: Robert Stojnic
+Description: PWMEnrich pre-compiled background objects for H. sapiens (human) and MotifDb H. sapiens motifs.
+Version: 0.99.0
+biocViews: AnnotationData, Organism, Homo_sapiens
+Date: 2013-09-18
+Depends: R (>= 2.10), methods, PWMEnrich
