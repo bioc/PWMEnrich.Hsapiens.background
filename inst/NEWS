@@ -1,4 +1,7 @@
 PWMEnrich.Hsapiens.background package
 
+Version 2.0.0:
+    o Updated with the latest 1897 motifs from MotifDb
+
 Version 0.99.0:
 	o Initial release of the package 
