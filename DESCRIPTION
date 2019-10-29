@@ -6,7 +6,7 @@ Type: Package
 LazyLoad: yes
 Author: Robert Stojnic
 Description: PWMEnrich pre-compiled background objects for H. sapiens (human) and MotifDb H. sapiens motifs.
-Version: 4.19.0
+Version: 4.20.0
 biocViews: Homo_sapiens_Data, CGHData
 Date: 2015-09-30
 Depends: R (>= 2.10), methods, PWMEnrich
