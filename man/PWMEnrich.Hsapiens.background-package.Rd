@@ -60,7 +60,9 @@
 \examples{
 	data(PWMLogn.hg19.MotifDb.Hsap)
 	
-	res = motifEnrichment(DNAString("TGCATCAAGTGTGTAGTGCAAGTGAGTGATGAGTAGAAGTTGAGTGAGGTAGATGC"), PWMLogn.hg19.MotifDb.Hsap)
+	res = motifEnrichment(
+	  DNAString("TGCATCAAGTGTGTAGTGCAAGTGAGTGATGAGTAGAAGTTGAGTGAGGTAGATGC"), 
+	  PWMLogn.hg19.MotifDb.Hsap)
 	
 	groupReport(res)[1:10]
 }
